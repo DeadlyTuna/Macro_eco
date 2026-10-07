@@ -1,0 +1,199 @@
+{
+  "BIH": {
+    "basics": {
+      "local_name": "Bosna i Hercegovina / Босна и Херцеговина",
+      "capital": "Sarajevo",
+      "area_km2": 51197,
+      "languages": "Bosnian, Croatian, Serbian",
+      "currency": "Convertible mark (BAM)",
+      "regime_2024": "Currency board: KM 1.95583 per euro, fully reserve-backed",
+      "central_bank": "Central Bank of Bosnia and Herzegovina (CBBH)"
+    },
+    "policy_rate": { "note": "Currency board — the CBBH sets no policy rate; it imports the ECB's stance." },
+    "tourism": {
+      "2022": 915143,
+      "2023": 1198796,
+      "2024": 1376774,
+      "source": "https://bhas.gov.ba/data/Publikacije/Saopstenja/2025/TUR_02_2024_12_1_EN.pdf"
+    },
+    "exports": {
+      "products": ["Electrical equipment ($897m)", "Machinery ($732m)", "Iron and steel articles ($674m)"],
+      "markets": ["Croatia ($1.77bn)", "Germany ($1.41bn)", "Serbia ($1.16bn)"]
+    },
+    "ratings": [
+      { "agency": "S&P", "date": "2023-02-03", "from": "B stable", "to": "B positive" },
+      { "agency": "S&P", "date": "2023-08-04", "from": "B positive", "to": "B+ stable" },
+      { "agency": "S&P", "date": "2026-07-31", "from": "B+ stable", "to": "B+ stable (affirmed)" },
+      { "agency": "Moody's", "date": "2026-01-30", "from": "B3 stable", "to": "B3 stable (affirmed)" }
+    ],
+    "events": [
+      { "date": "2022-10-02", "text": "The High Representative imposes changes to the election law and the Federation constitution as polls close.", "source": "https://www.euronews.com/my-europe/2022/10/07/bosnias-peace-envoy-changed-laws-mid-election-but-what-does-it-mean" },
+      { "date": "2024-05-23", "text": "The UN General Assembly adopts the Srebrenica genocide resolution; 11 July becomes a day of remembrance.", "source": "https://www.intellinews.com/un-general-assembly-adopts-resolution-on-srebrenica-genocide-326678/" },
+      { "date": "2024-10-04", "text": "The worst floods and landslides in years cut off Jablanica; a quarry collapses on Donja Jablanica.", "source": "https://www.aljazeera.com/news/2024/10/5/rescuers-in-bosnia-search-for-people-missing-in-deadly-floods" },
+      { "date": "2025-02-26", "text": "Republika Srpska president Milorad Dodik is sentenced to a year in prison and a six-year ban from office for defying the High Representative.", "source": "https://www.aljazeera.com/news/2025/2/26/bosnia-court-sentences-serb-leader-dodik-to-one-year-in-jail" },
+      { "date": "2025-10-29", "text": "The US Treasury lifts sanctions on Dodik, his family and allies.", "source": "https://www.occrp.org/en/news/us-lifts-sanctions-against-pro-russian-bosnian-serb-leader" },
+      { "date": "2025-11-23", "text": "Dodik ally Siniša Karan wins the snap Republika Srpska presidential election with 50.39%.", "source": "https://www.osw.waw.pl/en/publikacje/analyses/2025-11-26/snap-presidential-election-republika-srpska-dodiks-candidate-wins" }
+    ],
+    "since_2024": [
+      { "text": "Growth stayed near 2%: the central bank's nowcast put Q3 2025 at 1.9% and Q4 2025 at 2.1% year on year.", "source": "https://cbbh.ba/press/ShowNews/1750" },
+      { "text": "Inflation picked up again — 4.2% in Q4 2025 and 4.9% year on year in August 2026.", "source": "https://tradingeconomics.com/bosnia-and-herzegovina/inflation-cpi" },
+      { "text": "The 4 October 2026 general election (preliminary) returned Bećirović, Filipović and Cvijanović to the Presidency on 41.5% turnout.", "source": "https://aa.com.tr/en/europe/incumbents-lead-bosniak-serb-presidency-races-hdz-candidate-ahead-for-croat-seat-in-bosnia-election/4077906" },
+      { "text": "Ratings held steady: S&P B+ stable (affirmed 31 July 2026), Moody's B3 stable.", "source": "https://cbbh.ba/Content/Read/1054" }
+    ],
+    "did_you_know": [
+      { "text": "The KM 10–100 notes come in two designs, one for the Federation and one for Republika Srpska — both are valid everywhere.", "source": "https://cbbh.ba/Content/Read/19" },
+      { "text": "The coastline is only about 20 km long, at Neum.", "source": "https://www.cia.gov/the-world-factbook/about/archives/2023/countries/bosnia-and-herzegovina/map" },
+      { "text": "Chinese tourist arrivals rose from 5,234 in 2022 to 74,996 in 2024.", "source": "https://bhas.gov.ba/data/Publikacije/Saopstenja/2025/TUR_02_2024_12_1_EN.pdf" },
+      { "text": "In 2024 Turkey sent 205,831 tourists — almost four times Germany's 56,094.", "source": "https://bhas.gov.ba/data/Publikacije/Saopstenja/2025/TUR_02_2024_12_1_EN.pdf" }
+    ]
+  },
+  "SYC": {
+    "basics": {
+      "local_name": "Repiblik Sesel / République des Seychelles",
+      "capital": "Victoria",
+      "area_km2": 455,
+      "languages": "Seychellois Creole, English, French",
+      "currency": "Seychelles rupee (SCR)",
+      "regime_2024": "Free float since November 2008",
+      "central_bank": "Central Bank of Seychelles (CBS)",
+      "islands": 115
+    },
+    "policy_rate": { "2022": 2.0, "2023": 2.0, "2024": 1.75, "note": "Monetary policy rate; cut from 2.0% to 1.75% for Q2 2024." },
+    "tourism": {
+      "2022": 332068,
+      "2023": 350879,
+      "2024": 352762,
+      "2025": 398841,
+      "source": "https://nation.sc/articles/29548/seychelles-tourism-carries-its-momentum-confidently-into-2026"
+    },
+    "exports": {
+      "products": ["Canned tuna and prepared fish ($274m)", "Mineral fuels, mostly re-exports ($218m)", "Copper ($40m)"],
+      "markets": ["United Arab Emirates ($278m)", "France ($97m)", "United Kingdom ($79m)"]
+    },
+    "ratings": [
+      { "agency": "Fitch", "date": "2022-10-21", "from": "B+", "to": "BB- stable" },
+      { "agency": "Fitch", "date": "2024-03", "from": "BB- stable", "to": "BB- positive" },
+      { "agency": "Fitch", "date": "2025-09-05", "from": "BB-", "to": "BB stable" }
+    ],
+    "events": [
+      { "date": "2023-05-31", "text": "The IMF approves a three-year Extended Fund Facility (about $56m) and a Resilience and Sustainability Facility (about $46m).", "source": "https://www.imf.org/en/news/articles/2023/05/31/pr23189-seychelles-imf-executive-board-approves-extended-fund-facility-arrangement-for-seychelles" },
+      { "date": "2023-08-01", "text": "A per-night tourism environmental sustainability levy (SCR 25–100) takes effect.", "source": "https://www.finance.gov.sc/blog/2023/07/27/tourism-environmental-sustainability-levy-to-come-into-effect-on-01st-august/" },
+      { "date": "2023-10", "text": "The EU adds Seychelles to its list of non-cooperative tax jurisdictions.", "source": "https://nation.sc/articles/19774/seychelles-added-to-eu-list-of-non-cooperative-jurisdictions-for-tax-purposes" },
+      { "date": "2024-02-20", "text": "The EU moves Seychelles off the blacklist and onto its grey list.", "source": "https://www.finance.gov.sc/blog/2024/02/21/seychelles-removed-from-annex-i-of-the-eu-list-of-non-cooperative-jurisdictions-for-tax-purposes/" },
+      { "date": "2024-03", "text": "The central bank makes its first cut of the period, from 2.0% to 1.75%.", "source": "https://nation.sc/articles/21628/cbs-lowers-its-monetary-policy-rate-to-175-percent" },
+      { "date": "2025-10-12", "text": "Patrick Herminie (United Seychelles) defeats President Wavel Ramkalawan in the run-off, 52.7% to 47.3%.", "source": "https://www.aljazeera.com/news/2025/10/12/seychelless-patrick-herminie-wins-presidential-run-off-election" }
+    ],
+    "since_2024": [
+      { "text": "A record 398,841 visitors arrived in 2025, up 13%.", "source": "https://nation.sc/articles/29548/seychelles-tourism-carries-its-momentum-confidently-into-2026" },
+      { "text": "The IMF completed its fifth and sixth programme reviews on 26 May 2026; it puts growth at 5.1% in 2025 and 1.5% in 2026.", "source": "https://www.ecofinagency.com/news/2805-55978-seychelles-secures-41-million-imf-disbursement-to-support-economy" },
+      { "text": "About 60% of visitors transit Doha, Dubai or Abu Dhabi, which leaves arrivals exposed to Middle East air disruption.", "source": "https://www.ecofinagency.com/news/2805-55978-seychelles-secures-41-million-imf-disbursement-to-support-economy" },
+      { "text": "Fitch upgraded Seychelles to BB in September 2025, its highest rating since 2019.", "source": "https://www.finance.gov.sc/blog/2025/09/08/fitch-upgrades-seychelles-economic-outlook-to-bb/" }
+    ],
+    "did_you_know": [
+      { "text": "Seychelles issued the world's first sovereign blue bond — $15m, in October 2018.", "source": "https://www.thegef.org/newsroom/press-releases/seychelles-launches-worlds-first-sovereign-blue-bond" },
+      { "text": "The coco de mer of the Vallée de Mai has the largest seed in the plant kingdom.", "source": "https://whc.unesco.org/en/list/261" },
+      { "text": "It is the least populous sovereign country in Africa.", "source": "https://www.cia.gov/the-world-factbook/about/archives/2023/countries/seychelles" },
+      { "text": "It spent October 2023 to February 2024 on the EU's tax blacklist.", "source": "https://www.finance.gov.sc/blog/2024/02/21/seychelles-removed-from-annex-i-of-the-eu-list-of-non-cooperative-jurisdictions-for-tax-purposes/" }
+    ]
+  },
+  "VNM": {
+    "basics": {
+      "local_name": "Việt Nam (Cộng hòa Xã hội chủ nghĩa Việt Nam)",
+      "capital": "Hà Nội",
+      "area_km2": 331210,
+      "languages": "Vietnamese",
+      "currency": "Đồng (VND)",
+      "regime_2024": "Managed: the State Bank sets a daily central rate with a ±5% band (widened October 2022)",
+      "central_bank": "State Bank of Viet Nam (SBV)"
+    },
+    "policy_rate": { "2022": 6.0, "2023": 4.5, "2024": 4.5, "note": "Refinancing rate: 6% from 25 October 2022, 4.5% from 19 June 2023." },
+    "tourism": {
+      "2022": 3660000,
+      "2023": 12600000,
+      "2024": 17600000,
+      "2025": 21200000,
+      "source": "https://en.vneconomy.vn/vietnam-welcomes-212-mln-foreign-tourists-in-2025.htm"
+    },
+    "exports": {
+      "products": ["Computers and electronics ($107.7bn)", "Machinery ($59.0bn)", "Phones ($56.7bn)"],
+      "markets": ["United States ($153.2bn)", "China", "European Union ($56.2bn)"]
+    },
+    "ratings": [
+      { "agency": "S&P", "date": "2022-05-26", "from": "BB", "to": "BB+ stable" },
+      { "agency": "Moody's", "date": "2022-09-06", "from": "Ba3 positive", "to": "Ba2 stable" },
+      { "agency": "Fitch", "date": "2023-12-08", "from": "BB", "to": "BB+ stable" },
+      { "agency": "Moody's", "date": "2026-05-04", "from": "Ba2 stable", "to": "Ba2 positive" }
+    ],
+    "events": [
+      { "date": "2023-01-17", "text": "President Nguyễn Xuân Phúc resigns, the most senior casualty of the “blazing furnace” anti-corruption drive.", "source": "https://news.rthk.hk/rthk/en/component/k2/1684263-20230117.htm" },
+      { "date": "2024-08-03", "text": "Tô Lâm becomes Party General Secretary after Nguyễn Phú Trọng's death on 19 July.", "source": "https://www.rfa.org/english/news/vietnam/general-secretary-nguyen-phu-trong-health-07182024040201.html" },
+      { "date": "2025-04-02", "text": "The US announces a 46% “reciprocal” tariff on Viet Nam; a 2 July deal sets it at 20% (40% on transshipment).", "source": "https://globalimportblog.bakermckenzie.com/2025/07/07/us-and-vietnam-announce-trade-deal-a-week-before-higher-tariffs-return/" },
+      { "date": "2025-07-01", "text": "Provinces are merged from 63 to 34 and the district tier is abolished.", "source": "https://www.vietnam-briefing.com/news/vietnams-government-introduces-official-plan-for-provincial-mergers.html" },
+      { "date": "2025-10-07", "text": "FTSE Russell announces an upgrade from Frontier to Secondary Emerging market, effective 21 September 2026.", "source": "https://www.lseg.com/en/media-centre/press-releases/ftse-russell/2025/ftse-russell-country-classification-september-2025" },
+      { "date": "2026-01-23", "text": "The 14th Party Congress closes and re-elects Tô Lâm General Secretary for 2026–31.", "source": "https://en.baochinhphu.vn/general-secretary-to-lam-chairs-intl-press-conference-to-announce-outcomes-of-14th-national-party-congress-111260123215415179.htm" }
+    ],
+    "since_2024": [
+      { "text": "GDP grew 8.02% in 2025 with CPI inflation at 3.31% (GSO).", "source": "https://dtinews.dantri.com.vn/vietnam-today/vietnams-gdp-grows-802-per-cent-in-2025-driven-by-services-and-industry-20260105163351863.htm" },
+      { "text": "First-half 2026 GDP rose 8.18%; average CPI was 4.38%, and June's year-on-year rate 4.69%.", "source": "https://vietnamnet.vn/en/vietnam-s-gdp-grows-8-18-in-first-half-of-2026-2532110.html" },
+      { "text": "The World Bank moved Viet Nam to upper-middle income on 1 July 2026.", "source": "https://www.vietnam-briefing.com/news/vietnam-reaches-upper-middle-income-status-under-world-bank-classification.html" },
+      { "text": "Moody's turned its outlook positive in May 2026; S&P and Fitch still rate Viet Nam one notch below investment grade.", "source": "https://www.theasset.com/article/56330/moody-s-raises-vietnam-outlook-to-positive-on-reform-gains" }
+    ],
+    "did_you_know": [
+      { "text": "Viet Nam is the world's second-largest coffee producer, and robusta is about 95% of its output.", "source": "https://vietnamnews.vn/economy/1781254/viet-nam-cements-status-as-world-s-no-2-coffee-producer-robusta-powerhouse.html" },
+      { "text": "Sơn Đoòng, the world's largest cave, was only surveyed in 2009.", "source": "https://vietnamtourism.vn/en/index.php/news/items/1633" },
+      { "text": "The population passed 100 million in 2023.", "source": "https://en.baochinhphu.vn/viet-nams-population-exceeds-100-million-mark-111240102154853925.htm" },
+      { "text": "Electronics exports topped $100bn in 2025; the US alone bought about $153bn of goods.", "source": "https://en.baochinhphu.vn/viet-nams-foreign-trade-soars-to-all-time-high-in-2025-111260106092919875.htm" }
+    ]
+  },
+  "MDV": {
+    "basics": {
+      "local_name": "ދިވެހިރާއްޖެ (Dhivehi Raajje)",
+      "capital": "Malé",
+      "area_km2": 298,
+      "languages": "Dhivehi",
+      "currency": "Maldivian rufiyaa (MVR)",
+      "regime_2024": "De facto US-dollar peg near MVR 15.4 (official ±20% band around 12.85)",
+      "central_bank": "Maldives Monetary Authority (MMA)",
+      "islands": "About 1,192 in 26 atolls, some 198 inhabited"
+    },
+    "policy_rate": { "note": "The MMA publishes no single policy rate; its standing deposit (1.5%) and lending (10%) facility rates were unchanged through 2022–24." },
+    "tourism": {
+      "2022": 1675303,
+      "2023": 1878543,
+      "2024": 2046615,
+      "2025": 2246516,
+      "source": "https://database.mma.gov.mv/mosac/latest/3.1.pdf"
+    },
+    "exports": {
+      "products": ["Fresh and frozen fish ($100m)", "Fish preparations ($35m)", "Fish meal and fodder ($4m)"],
+      "markets": ["Thailand ($72m)", "United Kingdom ($28m)", "Mauritius ($7m)"]
+    },
+    "ratings": [
+      { "agency": "Fitch", "date": "2024-06", "from": "B-", "to": "CCC+" },
+      { "agency": "Fitch", "date": "2024-08", "from": "CCC+", "to": "CC" },
+      { "agency": "Moody's", "date": "2024-09-11", "from": "Caa1", "to": "Caa2 (review for downgrade)" },
+      { "agency": "Moody's", "date": "2025-11-27", "from": "Caa2 negative", "to": "Caa2 stable" },
+      { "agency": "Fitch", "date": "2026-06-04", "from": "CC", "to": "CCC-" }
+    ],
+    "events": [
+      { "date": "2024-04-21", "text": "President Muizzu's PNC wins a parliamentary supermajority.", "source": "https://edition.mv/news/32995" },
+      { "date": "2024-11-05", "text": "Tax rises are ratified: the green tax doubles to $12 a night from January 2025 and tourism GST rises to 17% from July 2025.", "source": "https://www.ttgasia.com/2024/11/25/flurry-of-new-taxes-hurting-maldives-tourism/" },
+      { "date": "2025-01-01", "text": "The China–Maldives free trade agreement, signed in 2014, enters into force.", "source": "https://english.mofcom.gov.cn/News/SignificantNews/art/2025/art_3ea5ffaef1b84ae9a1dcb135866df536.html" },
+      { "date": "2025-07-25", "text": "On Narendra Modi's visit India extends a ₹4,850 crore line of credit, and the two sides agree terms for an FTA.", "source": "https://www.newsonair.gov.in/india-and-maldives-exchange-several-agreements-after-delegation-level-talks/" },
+      { "date": "2026-03", "text": "Airspace closures during the Middle East war cut March arrivals by 20.7% year on year.", "source": "https://adhadhu.com/80348" },
+      { "date": "2026-04", "text": "A $500m sukuk is repaid from the Sovereign Development Fund and reserves.", "source": "https://www.ft.lk/front-page/Fitch-upgrades-Maldives-to--CCC--/44-792846" }
+    ],
+    "since_2024": [
+      { "text": "Inflation reached 4.04% in 2025, a 13-year high, driven by food and tobacco duties.", "source": "https://adhadhu.com/78877" },
+      { "text": "Foreign-exchange reserves recovered to $859m in October 2025 from a $364m low in September 2024.", "source": "https://mfr.mv/financial-sector/moody-s-ratings-affirms-maldives-caa2-rating-changes-outlook-to-stable-from-negative" },
+      { "text": "Arrivals hit a record 2.25 million in 2025, then fell 4.3% year on year over January–August 2026.", "source": "https://database.mma.gov.mv/mosac/latest/3.1.pdf" },
+      { "text": "Fitch upgraded the Maldives to CCC- after the sukuk repayment, while flagging its exposure to the energy shock.", "source": "https://www.ft.lk/front-page/Fitch-upgrades-Maldives-to--CCC--/44-792846" }
+    ],
+    "did_you_know": [
+      { "text": "From 1 November 2025 no one born on or after 1 January 2007 may buy tobacco — the first nationwide generational ban.", "source": "https://www.khaleejtimes.com/world/maldives-smoking-ban-underage" },
+      { "text": "In October 2009 the cabinet met underwater to draw attention to climate change.", "source": "https://csmonitor.com/Environment/Bright-Green/2009/1020/an-underwater-meeting-considers-climate-change" },
+      { "text": "Travel receipts reached $5.57bn in 2025.", "source": "https://database.mma.gov.mv/mosac/latest/3.1.pdf" },
+      { "text": "It repaid a $500m sukuk in April 2026 while Fitch still rated it CC.", "source": "https://www.ft.lk/front-page/Fitch-upgrades-Maldives-to--CCC--/44-792846" }
+    ]
+  }
+}
